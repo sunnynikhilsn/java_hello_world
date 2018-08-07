@@ -1,7 +1,3 @@
-# java_hello_world
-My first Java project
-
-
 # Hello World in Java SE 
 A simple JavaFX GUI application, written in the Java programming language.
 
